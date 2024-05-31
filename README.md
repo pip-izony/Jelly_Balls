@@ -4,7 +4,7 @@ This project provides a C# base code to make game development easier.
 I want to show beginners how to implement `SHAKE DETECTION`, `SAVE AND LOAD`, and `MAKING A SHOP` in Unity for Android.   
 Unity supports device acceleration detection, so we can use `Input.acceleration` to detect device inclination.   
 
-You can also practice Unity Intermediate Level Project in [here](https://github.com/pip-izony/POP_in_pot). 
+You can also practice with Unity Intermediate Level Project [here](https://github.com/pip-izony/POP_in_pot). 
 
 <p align="center">
    <img src="https://github.com/pip-izony/Jelly_Balls/assets/50067697/13f6ee68-d0ca-4532-a785-4d96fcdd77e7" width="300px" height="480px">
